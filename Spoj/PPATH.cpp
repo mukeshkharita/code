@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include <cstdio.h>
 using namespace std;
 int a,b;
 int sieve[10010];
